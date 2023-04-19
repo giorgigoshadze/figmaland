@@ -1,0 +1,125 @@
+*{
+    box-sizing: border-box;
+}
+
+.container2{
+    Width:1579px;
+    Height:1,675px;
+    background: #181818;
+}
+.marcxenatext{
+    margin-left: 350px;
+    margin-top: 30px;
+    
+}
+header{
+    margin-top: -35px;
+    text-align: center;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+.saxli{
+    margin-left: 136px;
+}
+.produqti{
+    margin-left: 51px;
+}
+.shesaxeb{
+    margin-left: 51px;
+}
+.sakontaqto{
+    margin-left: 51px;
+}
+.gilaki{
+    
+    display: flex;
+    justify-content: center;
+    text-align: left;
+    Width:80px;
+    Height:30px;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 25px;   
+    margin-top: -25px;
+    border: solid 1px white;
+    background-color: transparent;
+    color: #FFFFFF;
+}
+.gil{
+    display: flex;
+    justify-content: right;
+    margin-right: 326px;
+}
+.container{
+    width: 709px;
+    height: 176px;
+    margin-left: 435px;
+    margin-top: 214px;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 80px;
+    line-height: 88px;
+    color: #FFFFFF;
+    text-align: center;
+}
+p{
+    text-align: center;   
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    color: #FFFFFF;
+}
+button{
+    margin-top: 95px;    
+}
+.try{      
+    align-items: center;
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25px;
+    padding: 10px 30px;   
+    background: #4452FE;
+    color: #FFFFFF;    
+    border:none;
+}
+.learn{
+    font-family: 'Graphik';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 25px;
+    padding: 9px 30px;
+    border: solid 1px white;
+    background-color: transparent;
+    color: #FFFFFF;
+    margin-left: 25px;
+}
+.gilakebi{
+    display: flex;
+    justify-content: center;
+}
+.foto{
+    margin-top: 35px;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    
+    position: absolute;
+    Width:1579px;
+    Height:551px;
+    margin-top: -400px;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, #0E0E0E 66.15%);
+    
+}
